@@ -1,0 +1,233 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR sakuratan
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/social-bookmarking-jp\n"
+"POT-Creation-Date: 2010-04-14 03:06+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: social-bookmarking-jp.php:20
+msgid "Hatena"
+msgstr ""
+
+#: social-bookmarking-jp.php:28
+msgid "Hatena Bookmark for this entry"
+msgstr ""
+
+#: social-bookmarking-jp.php:34
+msgid "Hatena Bookmark - @TITLE@"
+msgstr ""
+
+#: social-bookmarking-jp.php:40
+msgid "Livedoor Clip"
+msgstr ""
+
+#: social-bookmarking-jp.php:47
+msgid "Clip this entry on Livedoor Clip"
+msgstr ""
+
+#: social-bookmarking-jp.php:53
+msgid "Livedoor Clip - @TITLE@"
+msgstr ""
+
+#: social-bookmarking-jp.php:59
+msgid "Yahoo!JAPAN Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:66
+msgid "Bookmark this on Yahoo Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:76
+msgid "BuzzURL"
+msgstr ""
+
+#: social-bookmarking-jp.php:81 social-bookmarking-jp.php:86
+msgid "Bookmark this on BuzzURL"
+msgstr ""
+
+#: social-bookmarking-jp.php:92
+msgid "@nifty clip"
+msgstr ""
+
+#: social-bookmarking-jp.php:99
+msgid "Add to @nifty clip"
+msgstr ""
+
+#: social-bookmarking-jp.php:105
+msgid "@nifty clip for this web page"
+msgstr ""
+
+#: social-bookmarking-jp.php:111
+msgid "Twitter"
+msgstr ""
+
+#: social-bookmarking-jp.php:117
+msgid "Post to Twitter"
+msgstr ""
+
+#: social-bookmarking-jp.php:123
+msgid "Tweets for this web page"
+msgstr ""
+
+#: social-bookmarking-jp.php:129
+msgid "Tumblr"
+msgstr ""
+
+#: social-bookmarking-jp.php:136
+msgid "Share on Tumblr"
+msgstr ""
+
+#: social-bookmarking-jp.php:142
+msgid "FC2 Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:149
+msgid "Bookmark this on FC2 Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:155
+msgid "newsing"
+msgstr ""
+
+#: social-bookmarking-jp.php:162
+msgid "newsing it!"
+msgstr ""
+
+#: social-bookmarking-jp.php:168
+msgid "Choix"
+msgstr ""
+
+#: social-bookmarking-jp.php:175
+msgid "Choix it!"
+msgstr ""
+
+#: social-bookmarking-jp.php:181
+msgid "Google Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:187
+msgid "Add to Google Bookmark"
+msgstr ""
+
+#: social-bookmarking-jp.php:193
+msgid "Delicious"
+msgstr ""
+
+#: social-bookmarking-jp.php:200
+msgid "Bookmark this on Delicious"
+msgstr ""
+
+#: social-bookmarking-jp.php:206
+msgid "Digg"
+msgstr ""
+
+#: social-bookmarking-jp.php:215
+msgid "Digg This"
+msgstr ""
+
+#: social-bookmarking-jp.php:221
+msgid "FriendFeed"
+msgstr ""
+
+#: social-bookmarking-jp.php:230
+msgid "Share on FriendFeed"
+msgstr ""
+
+#: social-bookmarking-jp.php:429
+msgid "Options saved."
+msgstr ""
+
+#: social-bookmarking-jp.php:506
+msgid "Visible"
+msgstr ""
+
+#: social-bookmarking-jp.php:508
+msgid "Hide"
+msgstr ""
+
+#: social-bookmarking-jp.php:520
+msgid "Del"
+msgstr ""
+
+#: social-bookmarking-jp.php:521
+msgid "Add"
+msgstr ""
+
+#: social-bookmarking-jp.php:533
+msgid "Up"
+msgstr ""
+
+#: social-bookmarking-jp.php:534
+msgid "Down"
+msgstr ""
+
+#: social-bookmarking-jp.php:540
+msgid "Select position of the social bookmark links:"
+msgstr ""
+
+#: social-bookmarking-jp.php:542
+msgid "heading of the post"
+msgstr ""
+
+#: social-bookmarking-jp.php:543
+msgid "bottom of the post"
+msgstr ""
+
+#: social-bookmarking-jp.php:548
+msgid ""
+"Display social bookmark links on home, category, tags and other listing page."
+msgstr ""
+
+#: social-bookmarking-jp.php:551
+msgid ""
+"Display the number of bookmarked users. (This option is available for Hatena "
+"bookmark, livedoor clip, Yahoo!JAPAN Bookmark, buzzurl, @nifty clip and "
+"Twitter.)"
+msgstr ""
+
+#: social-bookmarking-jp.php:553
+msgid "Save Changes"
+msgstr ""
+
+#: social-bookmarking-jp.php:563
+msgid ""
+"ERROR: Failed to initialize the Social Bookmarking JP plugin. The WordPress "
+"does not have writing and/or executing permissions for wp-content/uploads "
+"directory. Please check the configuration."
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "Social Bookmarking JP"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://sakuratan.biz/contents/social-bookmarking-jp"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Social Bookmarking JP plugin embeds links and icons of Hatena Bookmark, "
+"Livedoor Clip, Yahoo!JAPAN Bookmark, BuzzURL, Twitter, Tumblr, FC2 Bookmark, "
+"newsing, Choix, Google Bookmark, Delicious and Digg to the heading or ending "
+"of the post. These are Japanese major social bookmark services (except "
+"Delicious and Digg)."
+msgstr ""
+
+#. Author of an extension
+msgid "sakuratan"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://sakuratan.biz/"
+msgstr ""
